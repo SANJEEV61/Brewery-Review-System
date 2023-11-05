@@ -18,3 +18,5 @@ Step 5: Click on new and create a new Database. In our case database name is "re
 Step 6: Once Database is created successfully, click on import. Import the database which resides in SQL folder of the downloaded source code.
 
 step 7: Now type localhost/brewery(folder name) in your favourite web browser. A localhost(127.0.0.1) for your system will be created which runs the PHP code efficiently with fully functional database.
+
+![image](https://github.com/SANJEEV61/Brewery-Review-System/assets/89179742/dfb28454-5acd-4e12-9fcc-c0e4c9e39041)
